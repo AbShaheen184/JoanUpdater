@@ -1,0 +1,245 @@
+====================
+     03-12-2019
+====================
+
+
+====================
+     03-11-2019
+====================
+
+
+   * hardware/qcom/fm/
+8184149 Automatic translation import
+
+   * packages/apps/FMRadio/
+e8c91b0 Automatic translation import
+
+====================
+     03-10-2019
+====================
+
+
+   * device/havoc/sepolicy/
+3e66880 Allow Gallery to access system_app_data_file
+
+   * device/qcom/sepolicy/
+249887b sepolicy: Fix video4linux "name" node labeling
+a9ec699 sepolicy: Label persist.nfc.hci_network_reset_req
+
+   * packages/apps/CellBroadcastReceiver/
+029fa53 Fix a warning in generating id in android namespace.
+4ec03d3 Fix resource warnings.
+
+   * packages/apps/Contacts/
+d45121bda Contacts: Remove unused boolean resource
+18aae7960 Fix casting warnings in ContactSaveService
+
+   * packages/apps/HavocSettings/
+f858b4a Add lettuce in devices
+64b5e6b Add trlte in devices
+
+   * packages/apps/Messaging/
+a8efd2c Messaging: Fix generating id in android namespace
+
+   * packages/apps/PackageInstaller/
+0c1c6128 PackageInstaller: Fix generating id in android namespace
+
+   * packages/apps/SmartNavSettings/
+9fafe61 Fix "white on white" in SmartActions dialog list adapter
+
+   * packages/services/Telephony/
+d80854ccc Stop generating ids in android namespace.
+79834378b Fix resource warnings.
+df50e6ac5 Telephony: Mark enhanced_4g_lte_mode_title_variant as untranslatable
+
+   * prebuilts/clang/host/linux-x86/
+63cb79a5 Update prebuilt Clang to r353983.
+
+   * system/extras/
+0457fdf6 Remove -Wno-error from system/extras
+
+   * system/sepolicy/
+bb763c27 sepolicy: Allow init to chown sysfs LED files
+c9c1aac6 sepolicy: public: add TCSETSF to the list of unprivileged TTY ioctls
+c21f235c uncrypt: Allow opening OTA package as rw
+
+====================
+     03-09-2019
+====================
+
+
+====================
+     03-08-2019
+====================
+
+
+   * packages/apps/HavocSettings/
+918e35b Settings: Fixes
+dd44649 Settings: Add back About section
+
+   * packages/apps/SmartNavSettings/
+23f249b Settings: Fixes
+
+====================
+     03-07-2019
+====================
+
+
+   * frameworks/base/
+f11a55d79a2 Revert "hwui: Enable quicksilver"
+721ee3d68c5 Automagically set night mode when dark or black theme is turned on
+0143a72a994 Revert "base: Add Gboard overlay [1/2]"
+
+   * packages/apps/Settings/
+40dafa984a Changelog: Fix title on actionbar
+046443c5f6 Changelog: Add left padding
+091dc40239 Settings: update changelog activity * improve code
+48aec6ce33 Changelog: Fix text selection with dot
+40c4c9ccce Changelog: clean and make themeable before: https://imgur.com/a/ylSQG after: https://imgur.com/a/GdnPN
+8dbd4b8fe8 Changelog: prettify
+c651d5971b Settings: Changelog
+
+   * vendor/havoc/
+f4b5801f vendor: Generate file for OTA
+
+   * vendor/themes/
+52c3f50 Revert "themes: Add Gboard overlay [2/2]"
+
+====================
+     03-06-2019
+====================
+
+
+   * bionic/
+c8b427003 Merge tag 'android-9.0.0_r34' into pie
+
+   * frameworks/av/
+a3a06f02c Merge tag 'android-9.0.0_r34' into pie
+
+   * frameworks/base/
+cafce753548 Merge tag 'android-9.0.0_r34' into pie
+c4ce24fec89 base: Fix camera hal1 prop
+
+   * frameworks/native/
+da33c715b Merge tag 'android-9.0.0_r34' into pie
+
+   * hardware/nxp/nfc/
+1a42707 Merge tag 'android-9.0.0_r34' into pie
+
+   * hardware/ril-caf/
+fcb3640 Encode the Number of MNC Digits in CellIdentity
+aa26464 libril: Fix manual network selection with old modem
+
+   * packages/apps/PackageInstaller/
+29e48bf4 Merge tag 'android-9.0.0_r34' into pie
+
+   * packages/apps/Updater/
+b4c8ff5 Updater: Assume older Android version to be incompatible
+
+   * prebuilts/clang/host/linux-x86/
+28522cdd Update prebuilt Clang to r349610b.
+
+   * prebuilts/r8/
+2e25531 r8: Update D8 and R8 to 1.5.9-dev
+
+   * system/bt/
+b3c794b73 Merge tag 'android-9.0.0_r34' into pie
+
+   * system/core/
+6f9956b09 Export maximum number of fds/ints in a native_handle.
+
+   * system/libhwbinder/
+3a1f28e Merge tag 'android-9.0.0_r34' into pie
+
+   * system/tools/hidl/
+30d29fd Merge tag 'android-9.0.0_r34' into pie
+
+   * vendor/havoc/
+84e08944 Revert "vendor: build: Generate json file with zip info after build"
+4871db0a vendor: Update Lawnchair to alpha-914
+728e92b4 Havoc 2.3
+03921514 Create /data/havoc_updates to store updates
+7b9bff3d vendor: Add A/B Updater priv-app permissions
+b23671bd vendor: Changes for OTA
+
+====================
+     03-05-2019
+====================
+
+
+   * build/make/
+e9b7c0379 Use flags from Soong for d8 and r8
+e2ef7d918 Merge tag 'android-9.0.0_r34' into pie
+34586f1b4 Remove TARGET_USES_MKE2FS
+bc6e4be90 Remove extra $ in soong_app_prebuilt
+
+   * device/qcom/sepolicy/
+ca5a90e Allow charger access to /mnt/vendor
+e4438c9 Change havoc sepolicy path
+
+====================
+     03-04-2019
+====================
+
+
+   * frameworks/av/
+95a03429d av: Fix Derp
+67f618d25 effects: Initialize volume at -96
+
+   * frameworks/base/
+1981ac20dfc SystemUI: Remove unused resources
+d86b25fd0ae SystemUI: OneHandMode QS tile
+e382a6dac63 SystemUI: Update SoundTile
+1a54bf6bc23 SystemUI: Update ScreenRecord tile
+610d899a3d7 SystemUI: Update OnTheGo tile
+9b36c4a9ecd base: migrate isServiceRunning check to HavocUtils
+b7e78c7f6dc UpdateEngine: Add perf mode binder interface
+49930c4e622 SystemUI: Fix Powermenu layout
+23d59883f57 Network Traffic: Add more customizations and improvement [2/2]
+f55a341cd96 base: Add Gboard overlay [1/2]
+1c92e033971 SystemUI: Fix margin for small QS icons
+9c3cf7428f9 base: Expose system icon area weight
+601cae9a1f1 ColorDisplayService: change default night light brightness (2/2)
+e48751dfc82 Revert "SettingsProvider: Hide sensitive notification content"
+e6eaa3ac460 Do not apply date customization to QS clock
+70f75f83b33 SystemUI: Always show date in QS header
+cb6399f11d2 Clock: Always show time in the quickstatusbar
+ab520a10b74 Network traffic: Retain our notch check
+f81c5b02f56 Notch friendly carrier label [1/2]
+31b7ddc1c32 base: Link more things to a common dimen
+1103cbd0ba2 SystemUI: Make recents grid view accept more than 8 tasks
+85049f58bf7 Revert "Disable grid recents [1/2]"
+fa7abbf51fd base: Supress telephony crashing platform
+01ac1bc1a81 am: Avoid scheduling service restart twice
+675549bac3b base: screenrecord: update notif text for high aspect ratio devices
+e4cffa346a5 Method to detect a notch'd device
+0f806af7f38 VisualizerView: Don't add null end actions to animators
+ebcd84dc5fc SystemUI: grant missing READ_PHONE_STATE permission
+b7c983d2d32 base: Fix Auto-hide clock overlapping on keyguard
+e5d10d6c1b3 Add option to auto hide status-bar clock [1/2]
+19d7631f254 Power button flashlight: allow to skip proximity check per device
+e48dac2c66a Power button flashlight toggle: add proximity sensor check
+5ae948fb041 Allow doubletap/longpress power to toggle torch [1/3]
+456b598393c Revert "Power button flashlight"
+0a7e24b81a1 Helper functions for SmartActions action binding [1/2]
+97e79d9bc1d CustomActions: Use settings provider to store value [2/3]
+4653509aff8 ActionUtils: Improve ringer modes
+3f54a935f64 ActionUtils: Ringer modes
+
+====================
+     03-03-2019
+====================
+
+
+   * external/bash/
+a40f251 bash: Silence all build warnings
+
+   * external/openssh/
+729a9063 openssh: Silence build warnings
+
+   * external/rsync/
+4a30b87d rsync: Silence build warnings
+
+   * vendor/nxp/opensource/halimpl/
+fb5cc96 halimpl: Remove useless makefile
+
