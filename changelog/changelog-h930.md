@@ -1,3 +1,8 @@
+
+
+
+
+
 1 > Improved AOD.
 2 > Added support for Accidental touch (Pocked Mode).
 3 > Added Column View in Settings Dashboard.
