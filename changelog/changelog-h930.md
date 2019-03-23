@@ -1,6 +1,8 @@
-* Restored havoc smart pixels overlays.
-* Fixed Whatsapp video calling.
-* Enabled OTA updates(Beta).
-* Added EAS_orion_II_WIP3 kernel by default.
-* Embedded TWRP with latest version inside the kernel, To enter TWRP just press vol+ or vol- at LG logo right after BL unlocked warning.
-* Enabled call recording on stock dialer..
+1 > Improved AOD.
+2 > Added support for Accidental touch (Pocked Mode).
+3 > Added Column View in Settings Dashboard.
+4 > Added Google Camera 5.2 by @fu24.
+5 > Changed OTA server to SourceForge
+6 > Added sound recorder.
+7 > Added Fully Transparent theme. (Select able in custom theme colors. )
+8 > Other minor fixes.
