@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.3-20190323-h930-Unofficial.zip",
+      "filename": "havoc_h930-ota-eng.abuzar.zip",
       "version": "v2.3",
       "romtype": "unofficial",
-      "size": "27034071",
+      "size": "1212109",
       "datetime": 1553319858,
-      "id": "a232ab0ea5070fdd98ddf7f20585f6895786ebb2f0f2e309c34f0588e2f6b609",
-      "url": "https://sourceforge.net/projects/v30-ota-test/files/Havoc-OS-v2.3-20190323-h930-Unofficial.zip/download"
+      "id": "ad55b1096577814fc8c82005cbadb886027b4150115663bdf711ed7b5bf68ac0",
+      "url": "https://sourceforge.net/projects/v30-ota-test/files/havoc_h930-ota-eng.abuzar.zip/download"
     }
   ]
 }
