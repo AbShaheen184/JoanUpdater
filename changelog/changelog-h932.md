@@ -1,1 +1,1 @@
-1 > Improved AOD. 2 > Added support for Accidental touch (Pocked Mode). 3 > Added Column View in Settings Dashboard. 4 > Added Google Camera 5.2 by @fu24. 5 > Changed OTA server to SourceForge 6 > Added Fully Transparent theme. (Select able in custom theme colors. ) 7 > Improved Transparent Theme
+1 > Added DesaturatedBlue color theme. 2 > Decreased AOD brightness. 3 > Improved transparent theme colors. 4 > Added back EAS kernel. Note: If mobile just rebooted into recovery while installation then install it from /data/havoc_update/ OR export update to /sdcard by long press.
