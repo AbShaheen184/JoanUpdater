@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.4-20190404-h930-Unofficial.zip",
+      "filename": "Havoc-OS-v2.4-20190409-h930-OTA.zip",
       "version": "v2.4",
-      "romtype": "Unofficial",
-      "size": "618398283",
-      "datetime": 1554355596,
-      "id": "64a9ff17817f5e300452f3a01744e3a3f062af718c08abb792497a196aa684c1",
-      "url": "https://sourceforge.net/projects/lg-v30-ota/files/H930/Havoc-OS-v2.4-20190404-h930-Unofficial.zip/download"
+      "romtype": "unofficial",
+      "size": "630955275",
+      "datetime": 1554819544,
+      "id": "96b7f0f29395ee5bb3eea609b9821bc01f13f363307122c9d70149df5bcba6ab",
+      "url": "https://sourceforge.net/projects/lg-v30-ota/files/h930/Havoc-OS-v2.4-20190409-h930-OTA.zip/download"
     }
   ]
 }
