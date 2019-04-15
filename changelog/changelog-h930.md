@@ -4,10 +4,8 @@
 
 
 
-1 > Fixed notification padding
-2 > Fixed time in state reset statistics.
-3 > A lot of DAC improvements, Filters,Presets and AVC work without any MOD.
-4 > Added orion kernel again. No need to flash anyother kernel.
-5 > Added light skyblue theme.
-6 > Improved deepsleep status.
-7 > Other little improvements related to theme engine.
+1 > Using HMP kernel for H930
+2 > Added 11 new Doze profiles.
+3 > fixed whatsapp sound play. (was not working before when something is playing in background.)
+
+I have tried to fix OTA autoflash. if does not work then you have to flash manually from /data/havoc_updates/
