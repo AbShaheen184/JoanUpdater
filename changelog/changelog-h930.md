@@ -10,5 +10,9 @@
 
 I have tried to fix OTA autoflash. if does not work then you have to flash manually from /data/havoc_updates/
 
-[a link](https://t.me/Havoc_OS/974)
+More changelog at [Telegram](https://t.me/Havoc_OS/974)
+LG V30 at [Telegram] (https://t.me/LGEV30)
+Open XDA thread [HERE] (https://forum.xda-developers.com/lg-v30/development/rom-havoc-os-t3908402)
+
+
 
