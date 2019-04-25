@@ -5,7 +5,6 @@
 
 
 •  Fixed AOD (Should work 100%)
-•  Using HMP kernel for H930
 •  Added support to use wifi and hotsopt simultaneously.
 •  Added 11 new Doze profiles.
 •  fixed whatsapp sound play. (was not working before when something is playing in background.)
