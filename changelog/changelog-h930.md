@@ -8,6 +8,7 @@
 •  Added support to use wifi and hotsopt simultaneously.
 •  Added 11 new Doze profiles.
 •  Added android Q text clock.
+•  Set -5 as default value of DAC.
 •  fixed whatsapp sound play. (was not working before when something is playing in background.)
 •  Updated device tree with many fixes.(Thanks to Markus)
 •  Using HMP kernel as it has now many new improvements.
