@@ -2,6 +2,8 @@
 
 
 
+
+
 •  Fixed AOD (Should work 100%)
 •  Using HMP kernel for H930
 •  Added support to use wifi and hotsopt simultaneously.
