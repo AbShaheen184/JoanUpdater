@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.5-20190508-h932-Unofficial.zip",
+      "filename": "Havoc-OS-v2.5-20190509-h932-Unofficial.zip",
       "version": "v2.5",
-      "romtype": "Unofficial",
-      "size": "633812616",
+      "romtype": "unofficial",
+      "size": "634093475",
       "datetime": 1557329562,
-      "id": "b33b6f58072de8f42ec0ee00715890a509a80304ab926d49f8e95f1db1174764",
-      "url": "https://sourceforge.net/projects/lg-v30-ota/files/H932/Havoc-OS-v2.5-20190508-h932-Unofficial.zip/download"
+      "id": "69d9e76a99b8ece525bcdf3961e9c4ae92e7c756de366af52ce31ec64830736a",
+      "url": "https://sourceforge.net/projects/lg-v30-ota/files/H932/Havoc-OS-v2.5-20190509-h932-Unofficial.zip/download"
     }
   ]
 }
