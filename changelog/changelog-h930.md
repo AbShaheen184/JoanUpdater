@@ -4,16 +4,16 @@
 
 
 
-•  Added wifi MAC randomization.
-•  Added Spectrum support.(By app or from havoc system settings.)
-•  Added AUX camera support for some more more GCAM versions.
-•  Added busybox by default.
-•  Removed unwanted apps to enhance performance.
-•  Other minor fixed for fingerprint on H930.
+•  Fixed notification lag.
+•  Updated vendor blobs by latest LG update (J22)
+•  Added more statusbar header images.(Bootleg)
+•  Fixed AUX camera issue on some GCAMs.
+•  Switched to new Kernel (Jolla)
+•  Music now can be controlled by right or left swipe on lockscreen(AOD).
+•  Improved deepsleep and stability.
 
 >> Known Bugs.
-1 > If does not boot the flash orion kernel or kernel sepolicy patcher to make it permissive.
-2 > Test and lemme know. Running smoothly with me.
+No any for me. You can test it and lemme know.
 
-Note: I have attached lineage based stock recovery in XDA thread. Please flash that recovery before installing through OTA update. TWRP is not supported auto install OTA updates.
+Note: Since TWRP is still not compatible to flash OTA automatically. You can use stock recovery for this (Link in the thread) or just install manually rom /data/havoc_updates. 
 
