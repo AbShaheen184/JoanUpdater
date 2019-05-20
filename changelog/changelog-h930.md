@@ -4,13 +4,10 @@
 
 
 
-•  Fixed notification lag.
-•  Updated vendor blobs by latest LG update (J22)
-•  Added more statusbar header images.(Bootleg)
-•  Fixed AUX camera issue on some GCAMs.
-•  Switched to new Kernel (Jolla)
-•  Music now can be controlled by right or left swipe on lockscreen(AOD).
-•  Improved deepsleep and stability.
+•  Using HMP again by default. (Due to batter drain reports.)
+•  If you need swipe gesture on lockscreen then flash jolla kernel,(Attached in OP)
+•  Added some new useless things and removed old useless things.:)
+
 
 >> Known Bugs.
 No any for me. You can test it and lemme know.
