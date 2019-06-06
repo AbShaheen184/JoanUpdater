@@ -4,12 +4,19 @@
 
 
 
-•  Using HMP again by default. (Due to batter drain reports.)
-•  If you need swipe gesture on lockscreen then flash jolla kernel,(Attached in OP)
-•  Added some new useless things and removed old useless things.:)
-•  Added sprint LTE APN settings.
+•  Updated June security patches.
+•  Clean pulled vendor blobs from J22.
+•  Improved performance and fixed battery drain on standby.
+•  Merged June security patches
+•  Added an animation for charging
+•  Added back Night Light
+•  Added battery saving mode for location
+•  Added toggle for lockscreen charging animation
+•  Changed Android Q clock to Accent color
+•  Updated Lawnchair to alpha-2081
+•  Some more fixes/improvements
 
 >> Known Bugs.
 No any for me. You can test it and lemme know.
 
-Note: Since TWRP is still not compatible to flash OTA automatically. You can use stock recovery for this (Link in the thread) or just install manually rom /data/havoc_updates. 
+Recommendations: Try using stock kernel. It would give you better battery life and performance over other kernels.
