@@ -4,17 +4,12 @@
 
 
 
-•  Updated June security patches.
-•  Clean pulled vendor blobs from J22.
-•  Improved performance and fixed battery drain on standby.
-•  Merged June security patches
-•  Added an animation for charging
-•  Added back Night Light
-•  Added battery saving mode for location
-•  Added toggle for lockscreen charging animation
-•  Changed Android Q clock to Accent color
-•  Updated Lawnchair to alpha-2081
-•  Some more fixes/improvements
+• Fixed aux cam. (Was not working for some gcam versions since last update.)
+• Added a toggle for charging animation
+• Added Battery temp in battery usage
+• Fixed analog clocks not refreshing in AOD
+• Improved Android Q clock related stuff
+• Some more fixes/improvements
 
 >> Known Bugs.
 No any for me. You can test it and lemme know.
