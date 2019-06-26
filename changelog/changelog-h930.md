@@ -4,14 +4,21 @@
 
 
 
-• Fixed aux cam. (Was not working for some gcam versions since last update.)
-• Added a toggle for charging animation
-• Added Battery temp in battery usage
-• Fixed analog clocks not refreshing in AOD
-• Improved Android Q clock related stuff
-• Some more fixes/improvements
+• Improved standby battery usage.
+• A lots of kernel improvements(HMP).
+• Improved Deepsleep status.
+• Added Android Q activity animations
+• Added new QS tile styles
+• Added new Gaming mode
+• Improved Pocket mode
+• Improved LiveDisplay
+• Improved media notifications
+• Improved statusbar items layout
+• Improved navbar pixel animation
+• Changed battery stats reset level to 95%
+• Removed screenshot delay
 
 >> Known Bugs.
 No any for me. You can test it and lemme know.
 
-Recommendations: Try using stock kernel. It would give you better battery life and performance over other kernels.
+Recommendations: Try using stock kernel. Since it has many new things which will give you best performance and battery life.
