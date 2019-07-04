@@ -4,21 +4,17 @@
 
 
 
-• Improved standby battery usage.
-• A lots of kernel improvements(HMP).
-• Improved Deepsleep status.
-• Added Android Q activity animations
-• Added new QS tile styles
-• Added new Gaming mode
-• Improved Pocket mode
-• Improved LiveDisplay
-• Improved media notifications
-• Improved statusbar items layout
-• Improved navbar pixel animation
-• Changed battery stats reset level to 95%
-• Removed screenshot delay
+• Merged July Security Patches
+• Improved Gaming mode
+• Improved Statusbar icon padding
+• Improved Smart charging
+• Removed Quick unlock
+• Updated Lawnchair to alpha-2238
+• Other fixes and improvements
 
 >> Known Bugs.
 No any for me. You can test it and lemme know.
 
-Recommendations: Try using stock kernel. Since it has many new things which will give you best performance and battery life.
+Recommendations:
+1 > Try using stock kernel. Since it has many new things which will give you best performance and battery life.
+2 > If possible try clean flash to avoid any bug.
