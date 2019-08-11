@@ -4,9 +4,13 @@
 
 
 
-• Fixed screenshot bug.
-• Fixed screen rotation black screen issue.
-• Updated some sepolicy label props used by camera stack.
+• Merged August Security Patch
+• Added ability to restrict app vpn usage
+• Added translations for Text Clock
+• Enabled OP gestures on keyguard
+• Improved Dynamic gaming mode
+• Updated prebuilt apps
+• Other fixes and improvements
 
 >> Known Bugs.
 No any for me. You can test it and lemme know.
