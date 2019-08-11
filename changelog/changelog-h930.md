@@ -4,18 +4,12 @@
 
 
 
-• Added support for gcam stereo video recording (Thanks to SDevil454000).
-• Added Gesture Anywhere
-• Added NFC Sounds
+• Merged August Security Patch
+• Added ability to restrict app vpn usage
 • Added translations for Text Clock
-• Changed Text Clock color to Wallpaper based
-• Improved Battery Estimates
-• Improved Pocket Lock
-• Improved App info
-• Improved Sound settings
-• Fixed PiP for Multi-user
-• Removed QS tile overlays from app list
-• Updated Lawnchair to alpha-2338
+• Enabled OP gestures on keyguard
+• Improved Dynamic gaming mode
+• Updated prebuilt apps
 • Other fixes and improvements
 
 >> Known Bugs.
