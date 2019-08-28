@@ -4,6 +4,7 @@
 
 
 
+• Tried to fix OTA autoflash.
 • Added Extended screenshot function
 • Added new implementation for In-display fingerprint sensors
 • Added hotspot setting to allow VPN upstreams
