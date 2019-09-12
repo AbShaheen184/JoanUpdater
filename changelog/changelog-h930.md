@@ -4,23 +4,19 @@
 
 
 
-• Tried to fix OTA autoflash.
-• Added Extended screenshot function
-• Added new implementation for In-display fingerprint sensors
-• Added hotspot setting to allow VPN upstreams
-• Added support for internal audio recording
-• Added mapping files for DualShock3 and DualShock4
-• Added keylayout for Xbox One USB controller
-• Improved Battery estimates toggle
-• Improved LiveDisplay
-• Fixed constant FC on certain devices
-• Fixed NotificationColorUtil logspam
-• Fixed wrong data usage in QS tile
-• Fixed wrong locale causing reboot in recovery
+• Merged September security patch
+• Added New Recorder app with audio support
+• Added Lockscreen Date styles
+• Added OP gestures haptic feedback toggle
+• Added Circle battery style from PA
+• Added Default data SIM switcher in CellularTile
+• Added edit action on screenshot notification
+• Improved Media seekbar in notification
 • Other fixes and improvements
 
+
 >> Known Bugs.
-Sometimes settings shows some messed stuff. Just backup and install settings app again.
+Still need to test.
 
 Note: 
-From now there be no separate update for h932 device. They can use h930 ROM but they will have to install device patch AFTER FLASHING ROM.(Attached in OP)
+There will be no more havoc update for pie. Devs are working on android 10. So be patient and wait until successful android 10 build.
